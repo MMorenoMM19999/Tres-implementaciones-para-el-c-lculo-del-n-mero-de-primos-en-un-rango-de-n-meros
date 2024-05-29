@@ -1,4 +1,4 @@
-/**Estrategia 1: Cada hilo retorna el número de primos encontrados*/
+/**Estrategia 1: Guardar el código en un archivo llamado verificador_primos.c, compilar y ejecutar el programa*/
 /**Miguel Angel Moreno Romero (2125737)
 Juan Esteban Guerrero Camacho (2040798)
 Juan David Fonseca - 2323942
